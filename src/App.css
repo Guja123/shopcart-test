@@ -1,0 +1,11 @@
+
+header, main { 
+  max-width: 86%;
+ margin: 0 auto;
+}
+
+.just { 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
