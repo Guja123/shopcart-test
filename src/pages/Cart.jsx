@@ -1,7 +1,9 @@
 import React from 'react'
 import banners from "../../public/assets/images"
+import { useTitle } from '../hook/UpdateTitle'
 
 export const Cart = () => {
+  useTitle("cart")
   return (
     <main>
     
