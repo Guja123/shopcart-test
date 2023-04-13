@@ -1,6 +1,6 @@
 import './App.css'
 import { Header } from './components'
-import { AllROute } from './routes/AllROute'
+import { AllROute } from './routes/AllRoute.jsx'
 
 function App() {
   
